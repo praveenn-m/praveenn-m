@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen M</h1>
-<h3 align="center">🚀 Software Engineer | Data Analyst | ML Enthusiast</h3>
+<h3 align="center">🚀 AI/ML  Engineer | Data Analyst | ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/praveenn-m">
