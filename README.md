@@ -1,18 +1,105 @@
-# 💫 About Me:
-hi ,I'M PRAVEEN M<br>I am an aspiring  Data Analyst and ai and ml engineer based in Bengaluru, with a strong foundation in Python, SQL, and data-driven problem solving. I have hands-on experience in data analysis, machine learning basics, and building dashboards and backend systems.<br><br>I enjoy working on real-world problems by designing scalable solutions, analyzing data, and developing applications that deliver meaningful insights. I am particularly interested in product development, search systems, and building customer-centric solutions.<br><br>Currently, I am focused on strengthening my skills in data structures, algorithms, and system design while building impactful projects.<br><br>🚀 Open to opportunities in ML <br>Engineering, Data Analytics, and Machine Learning.
+<h1 align="center">Hi 👋, I'm Praveen M</h1>
+<h3 align="center">🚀 Software Engineer | Data Analyst | ML Enthusiast</h3>
 
+<p align="center">
+  <a href="https://github.com/praveenn-m">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Data+Analyst;Machine+Learning+Enthusiast;Building+Scalable+Systems&center=true&width=500&height=50">
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/praveen-m-630228302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Praveen M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenn1920@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=praveenn-m&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=praveenn-m&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenn-m&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praveenn-m&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=praveenn-m&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+- 🔭 Working on **Data Analysis & Backend Projects**
+- 🌱 Learning **Data Structures, Algorithms & System Design**
+- 💡 Interested in **Scalable Systems, ML & Product Development**
+- 📊 Skilled in **Python, SQL, Power BI**
+- 📍 Bengaluru, India
+- 🚀 Open to **Software Engineer / Data Analyst roles**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 📊 Data & ML
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenn-m&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenn-m&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenn-m&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=praveenn-m&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ Data Analysis Dashboard
+- Built using **Python + Power BI**
+- Performed ETL, data modeling, and visualization
+
+### 🛒 Mini E-commerce Backend
+- Developed REST APIs using **Flask**
+- Implemented product search and CRUD operations
+
+### 🤖 Machine Learning Model
+- Customer churn prediction using **Random Forest**
+- Feature engineering + evaluation
+
+---
+
+## 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenn-m&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/praveen-m-630228302">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:praveenn1920@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 I love turning data into insights and ideas into scalable products.
+
+---
+
+⭐ *"Code. Analyze. Build. Repeat."*
