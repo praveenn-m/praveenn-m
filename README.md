@@ -89,9 +89,11 @@
 - Built using **Python + Power BI**
 - Performed ETL, data modeling, and visualization
 
-### 🛒 Mini E-commerce Backend
-- Developed REST APIs using **Flask**
-- Implemented product search and CRUD operations
+###✈️Indian Airlines Ticket Price Analysis – Power BI
+•	Developed an end-to-end analytics solution to analyze airline ticket price fluctuations.
+•	Performed ETL processes using Power Query and built optimized data models.
+•	Created advanced DAX measures for price trends, seasonality, and profitability analysis.
+•	Designed interactive dashboards and improved report performance for better insights.
 
 ### 🤖 Machine Learning Model
 - Customer churn prediction using **Random Forest**
