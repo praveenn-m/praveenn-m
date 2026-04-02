@@ -20,7 +20,6 @@
 - 📊 Skilled in **Python, SQL, Power BI**
 - 📍 Bengaluru, India
 - 🚀 Open to **Software Engineer / Data Analyst roles**
-
 ---
 
 ## 🛠️ Tech Stack
